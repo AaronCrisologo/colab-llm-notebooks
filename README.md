@@ -26,9 +26,9 @@ This repository contains a collection of Jupyter notebooks used for evaluating a
 
 ### OpenRouter Automation
 
-- **`OpenRouter Automate Script - Culture`** - Automated evaluation script for cultural domain tasks using OpenRouter API
-- **`OpenRouter Automate Script - Government_`** - Automated evaluation script for government/policy domain tasks
-- **`OpenRouter Automate Script - History`** - Automated evaluation script for historical domain tasks
+- **`OpenRouter Automate Script - Culture`** - Synthetic data generation for cultural domain using OpenRouter API
+- **`OpenRouter Automate Script - Government_`** - Synthetic data generation for government/policy domain using OpenRouter API
+- **`OpenRouter Automate Script - History`** - Synthetic data generation for historical domain using OpenRouter API
 
 ## Setup
 
