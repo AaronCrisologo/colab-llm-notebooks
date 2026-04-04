@@ -54,7 +54,9 @@ jupyter lab
 
 ## License
 
-[Specify your license here]
+This project is licensed under the Apache License 2.0. This license is chosen to be compatible with Unsloth's Apache 2.0 license, which is used by the Unsloth library referenced in several notebooks.
+
+See the [LICENSE](LICENSE) file for the full license text.
 
 ## Contact
 
