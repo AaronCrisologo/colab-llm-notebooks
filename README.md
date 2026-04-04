@@ -13,8 +13,8 @@ This repository contains a collection of Jupyter notebooks used for evaluating a
 
 ### Conversational AI Testing
 
-- **`Unsloth Llama3.2_(1B_and_3B)-Conversational.ipynb`** - Conversational inference tests using Unsloth-optimized Llama 3.2 models (1B and 3B variants)
-- **`Unsloth Phi_3.5_Mini-Conversational.ipynb`** - Conversational inference tests using Unsloth-optimized Phi 3.5 Mini model
+- **`Unsloth Llama3.2_(1B_and_3B)-Conversational.ipynb`** - Fine Tuning and Quantization using Unsloth-optimized Llama 3.2 models (1B and 3B variants)
+- **`Unsloth Phi_3.5_Mini-Conversational.ipynb`** - Fine Tuning and Quantization tests using Unsloth-optimized Phi 3.5 Mini model
 
 ### Evaluation Metrics
 
@@ -49,8 +49,6 @@ jupyter lab
 ## Notes
 
 - Some notebooks may require API keys (e.g., OpenRouter, Hugging Face) - these should be set as environment variables or in the notebook's configuration cells
-- Quantized models are used to reduce computational requirements while maintaining performance
-- Unsloth is used for optimized inference on smaller models
 
 ## License
 
