@@ -16,7 +16,8 @@ This repository contains a collection of Jupyter notebooks used for evaluating a
 - **`Unsloth Llama3.2_(1B_and_3B)-Conversational.ipynb`** - Fine Tuning and Quantization using Unsloth-optimized Llama 3.2 models (1B and 3B variants)
 - **`Unsloth Phi_3.5_Mini-Conversational.ipynb`** - Fine Tuning and Quantization tests using Unsloth-optimized Phi 3.5 Mini model
 
-### Conversational AI Testing
+### Actual Complete Fine Tuning with Selected Model
+ 
 - **`Gemma3_Multilingual_Colab.ipynb`** - Fine Tuning and Q4.0 Quantization using the full real and synthetic dataset
 
 ### Evaluation Metrics
